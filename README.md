@@ -5,7 +5,7 @@
 Vytvořit zpěvníkovou aplikace / službu plošně používanou a uznávanou všemi skauty
 
 ## Funkce
-* android/iOS appka (offline), webovky
+* android (iOS) appka (offline), webovky
 * odkazy na písně na YT / nahrání mp3ky / pouštění přímo v appce (problémy s licencemi?)
 * generování pdfka (XeLaTeX), tisk (stačí jen na webovém rozhraní)
 * přidávání písní (na společný server)
@@ -23,7 +23,7 @@ Vytvořit zpěvníkovou aplikace / službu plošně používanou a uznávanou v�
 1) Vymyslet syntax písní
 * optimalizovat pro čitelnost člověku
 * lehce parsovatelný do TeXu
-2) Android/iOS appka
+2) Android (iOS) appka
 * Android (využít standardní knihovny)
 * iOS (ojojoj)
 3) Webový server
